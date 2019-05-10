@@ -1,0 +1,38 @@
+h1{
+	 
+}
+.wp-list-table th{
+	padding:10px;
+}
+.form-table th{
+	width:100% !important;
+}
+#alln1api_css_error{
+	margin: 0 0 5px;
+    padding: 20px;
+    min-height: 20px;
+    background-color: #ffbdbd;
+    color: black;
+}
+#alln1api_css_success{
+	margin: 0 0 5px;
+    padding: 20px;
+    min-height: 20px;
+    background-color: #d3ffb8; 
+    color: black;
+}
+#alln1_current_page{
+    color: #008ec2;
+    font-weight: 500;
+    text-decoration: underline;
+    position: relative;
+    top: -5px;
+}
+#alln1_current_page_not_current{
+    margin:2px;
+}
+#alln1api_field{
+    height: 28px;
+    margin: 0 4px 0 0;
+}
+ 
