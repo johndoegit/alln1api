@@ -14,6 +14,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 All in 1 API you can custom select from you wordpress database and then set method 
 request GET or POST with json endpoint
 
+==INSTALLATION==
+
+NO CONFIGURATION AFTER INSTALL ROCK n ROLL
+
+
 == Screenshots ==
 
 screenshot001.png - Create your API endpoint with GET and POST method if POST name of the submit must be api_key
