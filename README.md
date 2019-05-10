@@ -14,9 +14,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 All in 1 API you can custom select from you wordpress database and then set method 
 request GET or POST with json endpoint
 
-==INSTALLATION==
+== INSTALLATION ==
 
 NO CONFIGURATION AFTER INSTALL ROCK n ROLL
+
+
+== DEMO ==
+http://gregoriobalonzo.ml/demo/wordpress/
+username:demo
+password:demo
+
 
 
 == Screenshots ==
